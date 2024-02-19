@@ -7,7 +7,7 @@ addons.setConfig({
 
     // Logo
     brandTitle: 'TailNext',
-    brandUrl: 'https://github.com/onwidget/tailnext',
+    brandUrl: 'https://github.com/pripramot/butterfly',
     brandTarget: '_blank',
   }),
 });
